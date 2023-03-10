@@ -1,0 +1,29 @@
+--root
+    |
+    --dirs
+        |
+        --abc
+            |
+            --test
+                |
+                --fileref
+            --test2
+                |
+                --fileref2
+        --def
+            |
+            --anotherfileref
+    --cards
+        |
+        --fileref
+            |
+            --name: somename
+            --videoURL: videoURL
+        --fileref2
+            |
+            --name: somename2
+            --videoURL: videoURL
+        --anotherfilref
+            |
+            --name: somename2
+            --videoURL: videoURL
